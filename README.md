@@ -71,7 +71,7 @@
         </div>
 
         <!-- Bible Text Display -->
-        <main class="main-content flex-grow bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg">
+        <main class="main-content flex-grow bg-blue dark:bg-gray-800 p-6 rounded-lg shadow-lg">
             <div id="bibleText" class="text-lg leading-relaxed text-gray-700 dark:text-gray-300">
                 <p class="text-center text-gray-500 dark:text-gray-400">Please select a book and chapter to start reading.</p>
             </div>
